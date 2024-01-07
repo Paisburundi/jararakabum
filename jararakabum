@@ -1,0 +1,15 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title="Ja", MEGAPIX SD²
+http://4tv.website:2082/vlg4zk3kbz/60vj0ofva1/35117
+#EXTINF: -1 tvg-id="star.br" tvg-name="STAR CHANNEL SD¹" tvg-logo="https://imgur.com/O9w4VCR.png" group-title="Ja", STAR CHANNEL SD¹
+http://4tv.website:2082/vlg4zk3kbz/60vj0ofva1/17915
+#EXTINF: -1 tvg-id="tnt.br" tvg-name="TNT SD¹" tvg-logo="https://i.imgur.com/i3ZqAqY.png" group-title="Ja", TNT SD¹
+http://4tv.website:2082/vlg4zk3kbz/60vj0ofva1/17995
+#EXTINF: -1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD¹" tvg-logo="https://i.imgur.com/139b1zs.png" group-title="Ja", TNT SERIES SD¹
+http://4tv.website:2082/vlg4zk3kbz/60vj0ofva1/17996
+#EXTINF: -1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL SD¹" tvg-logo="https://i.imgur.com/2dOKKEX.png" group-title="Ja", UNIVERSAL CHANNEL SD¹
+http://4tv.website:2082/vlg4zk3kbz/60vj0ofva1/18022
+#EXTINF: -1 tvg-id="viva.br" tvg-name="VIVA SD²" tvg-logo="https://imgur.com/xJBcvcI.png" group-title="Ja", VIVA SD²
+http://4tv.website:2082/vlg4zk3kbz/60vj0ofva1/175426
+#EXTINF: -1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD¹" tvg-logo="https://i.imgur.com/M6YFOLU.png" group-title="Ja", WARNER CHANNEL SD¹
+http://4tv.website:2082/vlg4zk3kbz/60vj0ofva1/18018
